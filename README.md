@@ -18,6 +18,7 @@ The **Smart Wrist Guard** project is designed to provide proactive emergency res
 * **Programming Languages:** Embedded C/C++, Python (for model training)
 * **Simulation Environments:** Wokwi IoT Simulator
 * **Core Capabilities:** Digital/Analog signal processing, battery voltage monitoring, sensor telemetry, and edge-based anomaly/fall detection.
+<img width="3072" height="1032" alt="image" src="https://github.com/user-attachments/assets/92ceb92a-1815-47a5-a49b-c5b821a477f2" />
 
 ---
 
