@@ -24,7 +24,7 @@ The **Smart Wrist Guard** project is designed to provide proactive emergency res
 
 ## 📅 Development Timeline & Technical Log
 
-### 26/07/2025
+### Jul 26, 2025
 #### LED Control Programming
 * **Description:** Initiated the hardware-software integration phase by establishing basic GPIO control on the ESP32 microcontroller. Utilized the **Wokwi** simulation environment to test digital output signals, timing logic, and core embedded scripting structure (`setup` and `loop` functions).
 * **Implementation Focus:** Validating development toolchain and ensuring clean execution of basic firmware instructions.
@@ -33,7 +33,7 @@ The **Smart Wrist Guard** project is designed to provide proactive emergency res
 
 ---
 
-### 17/08/2025
+### Aug 17, 2025
 #### Analog Read Programming
 * **Description:** Progressed from digital control to processing continuous analog signals. Configured the ADC (Analog-to-Digital Converter) pins on the microcontroller to read fluctuating sensor inputs (such as environmental or motion sensors).
 * **Implementation Focus:** Calibrating analog thresholds, filtering noise, and mapping sensor voltage to readable data units (`laptrinhanalog.ino`).
@@ -42,7 +42,7 @@ The **Smart Wrist Guard** project is designed to provide proactive emergency res
 
 ---
 
-### 17/08/2025
+### Aug 17, 2025
 #### Read the Battery Voltage Value
 * **Description:** Implemented an integrated power management routine to monitor system health and battery status. Reading the battery voltage level ensures that the wearable device can issue low-power warnings before unexpected shutdowns occur in the field.
 * **Implementation Focus:** Voltage divider calculation, reference voltage calibration, and battery percentage mapping.
@@ -51,7 +51,7 @@ The **Smart Wrist Guard** project is designed to provide proactive emergency res
 
 ---
 
-### 23/08/2025
+### Aug 23, 2025
 #### Enter the Code for the Smart Wrist Guard
 * **Description:** Consolidated individual peripheral scripts into a cohesive firmware architecture specifically tailored for the smart wrist guard prototype. This script integrates sensor polling, state machines, and baseline alert logic.
 * **Implementation Focus:** Modular code organization, memory optimization on ESP32, and stable multitasking execution.
@@ -60,7 +60,7 @@ The **Smart Wrist Guard** project is designed to provide proactive emergency res
 
 ---
 
-### 30/08/2025
+### Aug 30, 2025
 #### Training the Fall Detection Model
 * **Description:** Developed and trained the machine learning classifier responsible for recognizing fall patterns based on accelerometer and gyroscope telemetry data. Collected dataset samples, structured features, and tuned model hyperparameters to maximize classification accuracy and minimize false positives.
 * **Implementation Focus:** Dataset preprocessing, feature extraction, model training, and performance evaluation.
@@ -71,12 +71,17 @@ The **Smart Wrist Guard** project is designed to provide proactive emergency res
 
 ---
 
-### 05/09/2025
+### Sep 05, 2025
 #### Wrist Band Hardware Assembly & Integration
 * **Description:** Completed the physical prototyping phase. Assembled the electronic components, secured the wiring, integrated the power source, and housed the circuit inside the wearable wristband casing.
 * **Implementation Focus:** Ergonomic hardware casing, compact wiring layout, and final field-testing of the integrated IoT wearable system.
 
 <img width="1109" height="2466" alt="image" src="https://github.com/user-attachments/assets/228dc7dd-875c-40d2-88d7-53b241de432a" />
+
+### Sep 07, 2025
+<img width="2556" height="1503" alt="image" src="https://github.com/user-attachments/assets/ef812e57-106b-4492-9e41-2534e8d128a4" />
+<img width="2483" height="1479" alt="image" src="https://github.com/user-attachments/assets/aa8c5745-2115-40df-94d3-79cd43dcc718" />
+
 
 ---
 
