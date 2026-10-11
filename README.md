@@ -78,9 +78,19 @@ The **Smart Wrist Guard** project is designed to provide proactive emergency res
 
 <img width="1109" height="2466" alt="image" src="https://github.com/user-attachments/assets/228dc7dd-875c-40d2-88d7-53b241de432a" />
 
+---
+
 ### Sep 07, 2025
 <img width="2556" height="1503" alt="image" src="https://github.com/user-attachments/assets/ef812e57-106b-4492-9e41-2534e8d128a4" />
 <img width="2483" height="1479" alt="image" src="https://github.com/user-attachments/assets/aa8c5745-2115-40df-94d3-79cd43dcc718" />
+
+---
+
+### Sep 07, 2025
+<img width="871" height="1884" alt="image" src="https://github.com/user-attachments/assets/6e5344db-7444-4c4a-a952-0a36b8eac374" />
+<img width="871" height="1884" alt="image" src="https://github.com/user-attachments/assets/6e99784b-6297-4f4f-a184-fe1b945c06f4" />
+<img width="871" height="1884" alt="image" src="https://github.com/user-attachments/assets/2ea5827c-be62-4cf5-9145-39b465d2c0d0" />
+<img width="871" height="1884" alt="image" src="https://github.com/user-attachments/assets/6996fbfe-c426-472e-8baf-682ad414896f" />
 
 
 ---
