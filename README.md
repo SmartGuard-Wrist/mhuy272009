@@ -86,7 +86,7 @@ The **Smart Wrist Guard** project is designed to provide proactive emergency res
 
 ---
 
-### Sep 07, 2025
+### Sep 14, 2025
 <img width="871" height="1884" alt="image" src="https://github.com/user-attachments/assets/6e5344db-7444-4c4a-a952-0a36b8eac374" />
 <img width="871" height="1884" alt="image" src="https://github.com/user-attachments/assets/6e99784b-6297-4f4f-a184-fe1b945c06f4" />
 <img width="871" height="1884" alt="image" src="https://github.com/user-attachments/assets/2ea5827c-be62-4cf5-9145-39b465d2c0d0" />
